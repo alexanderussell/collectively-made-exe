@@ -4,7 +4,7 @@
   "items": [
     {
       "name": "Dark",
-      "value": "#404040"
+      "value": "#2A2A2A"
     },
     {
       "name": "Light",
@@ -16,7 +16,7 @@
     },
     {
       "name": "Primary",
-      "value": "#dd4462"
+      "value": "#2A2A2A"
     },
     {
       "name": "Primary Glare",

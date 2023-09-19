@@ -99,7 +99,7 @@ nav.navbar button {
 
 nav.navbar span {
   font-size: var(--size-step-min-1);
-  font-weight: bold;
+  font-weight: medium;
   text-transform: uppercase;
   padding-inline-end: var(--space-2xs);
 }
